@@ -1,0 +1,5 @@
+Maths Arena|2025-08-01|12:05|this is maths related event
+Full Throttle|2025-08-15|10:30|This is a robotic car race event in which you have to carry you self built car and participate in a race
+Treasure Hunt|2025-08-11|12:30|This is a puzzle solver competition.
+Circuit Chase|2025-08-09|11:10|This is a circuit making competition.
+water summit|2025-01-02|12:12|the water is very essential
